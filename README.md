@@ -16,6 +16,7 @@ Project: Using Machine Learning to Reduce the number of exams for cancer diagnos
 | Name | Description |
 |--- |---|
 | Reducing Cancer Exams | Using Machine Learning to Reduce the number of exams for cancer diagnoses |
+| Clustering Credit Card | Using ML models to cluster data and analyze customer spending behavior |
 
 
 ## How to use this repo
