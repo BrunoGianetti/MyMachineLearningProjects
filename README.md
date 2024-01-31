@@ -21,6 +21,7 @@ Project: Using Machine Learning to Reduce the number of exams for cancer diagnos
 | Model's Validation | Studies of Machine Learning |
 | Otimization | Hyperparameters and random exploration |
 | Deep Learning | Prediction with Keras |
+| Linear Regression | Prediction with Keras |
 
 
 ## How to use this repo
